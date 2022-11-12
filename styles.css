@@ -88,6 +88,17 @@ body{
 }
 
 
+/*Footer*/
+footer{
+    text-align: center;
+    font-size: 20px;
+    
+    
+}
 
+    
 
-
+.fa-instagram {
+    background: #0d0d0d;
+    color: rgb(240, 240, 240);
+  }
